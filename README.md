@@ -1,2 +1,2 @@
 # AppraisalCalc
-Java to calculate appraisal
+Java program to calculate appraisal
